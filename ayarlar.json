@@ -1,11 +1,11 @@
 {
 "sahip": ["896272859817734155", "899794450509856789"], 
 "prefix": "g!", 
-"token": "bOTQxODIzMzgzNTIyMzkwMDc3.YgbjYA.p_Bw1GR1Kfvj3g_g_ZZem0e6jec",
-"dbltoken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjkwNDg3MzU1MDU2ODEwODAzNCIsImJvdCI6dHJ1ZSwiaWF0IjoxNjM3NTk5ODM3fQ.MpxjZCv2e02EWN6hik2vJqEKIRGaZbZLQJPsoRPCV5A",
+"token": "",
+"dbltoken": "",
 "dblvote": "https://top.gg/bot/904873550568108034",
 "botdavet": "https://discord.com/api/oauth2/authorize?${client.user.id}&permissions=8&scope=bot",
-"destek": "https://discord.gg/YsVrTCUsFT",
+"destek": "https://discord.gg/botlist",
   
 "color": "#ff9900",
 "banner": "https://media.discordapp.net/attachments/904444443132821595/908045240026419230/dasdas.png",
